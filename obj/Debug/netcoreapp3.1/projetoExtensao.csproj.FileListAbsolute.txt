@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\projetoExtensao\obj\Debug\netcoreapp3.1\projetoExtensao.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\projetoExtensao\obj\Debug\netcoreapp3.1\projetoExtensao.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\projetoExtensao\obj\Debug\netcoreapp3.1\projetoExtensao.AssemblyInfo.cs
+C:\Users\HOME\Documents\projetoExtensao\obj\Debug\netcoreapp3.1\projetoExtensao.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\projetoExtensao\bin\Debug\netcoreapp3.1\projetoExtensao.exe
+C:\Users\HOME\Documents\projetoExtensao\bin\Debug\netcoreapp3.1\projetoExtensao.deps.json
+C:\Users\HOME\Documents\projetoExtensao\bin\Debug\netcoreapp3.1\projetoExtensao.runtimeconfig.json
+C:\Users\HOME\Documents\projetoExtensao\bin\Debug\netcoreapp3.1\projetoExtensao.runtimeconfig.dev.json
+C:\Users\HOME\Documents\projetoExtensao\bin\Debug\netcoreapp3.1\projetoExtensao.dll
+C:\Users\HOME\Documents\projetoExtensao\bin\Debug\netcoreapp3.1\projetoExtensao.pdb
+C:\Users\HOME\Documents\projetoExtensao\obj\Debug\netcoreapp3.1\projetoExtensao.dll
+C:\Users\HOME\Documents\projetoExtensao\obj\Debug\netcoreapp3.1\projetoExtensao.pdb
+C:\Users\HOME\Documents\projetoExtensao\obj\Debug\netcoreapp3.1\projetoExtensao.genruntimeconfig.cache
